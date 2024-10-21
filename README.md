@@ -13,7 +13,7 @@ The **CTI Toolkit** is a command-line tool that gathers real-time threat intelli
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/CTI-Toolkit.git
+    git clone https://github.com/shivahuh1/CTI-Toolkit.git
     cd CTI-Toolkit
     ```
 
